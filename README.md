@@ -16,8 +16,8 @@ Feel free to connect with me if you're interested in collaborating or discussing
 Web Development: HTML, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;">
 
-
-Cloud Computing: Microsoft Azure <span>
+Cloud Computing: Microsoft Azure
+<span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">
 
 
