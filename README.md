@@ -36,7 +36,8 @@ Resume: https://flowcv.com/resume/nsg0lbpvbl 📝
 I'm currently learning React ⚛️ and exploring cloud platforms like AWS and Azure 🌥️.
 
 
-![HTML Badge](https://img.shields.io/badge/HTML-5-orange)
-![CSS Badge](https://img.shields.io/badge/CSS-3-blue)
-![AWS Badge](https://img.shields.io/badge/AWS-Cloud-orange)
+![HTML Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript Icon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+
 
