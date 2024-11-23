@@ -36,9 +36,9 @@ Resume: https://flowcv.com/resume/nsg0lbpvbl 📝
 I'm currently learning React ⚛️ and exploring cloud platforms like AWS and Azure 🌥️.
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;"> 
 
 
 
