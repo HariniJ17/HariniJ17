@@ -17,8 +17,7 @@ Web Development: HTML, CSS  <img src="https://raw.githubusercontent.com/devicons
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;">
 
 
-Cloud Computing: Microsoft Azure 
-
+Cloud Computing: Microsoft Azure <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">
 
 
