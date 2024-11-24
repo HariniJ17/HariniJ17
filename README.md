@@ -25,7 +25,7 @@ Feel free to connect with me if you're interested in collaborating or discussing
 📫 **How to reach me:**
 
 
-*LinkedIn:* https://www.linkedin.com/in/harinijayakumar🔗
+*LinkedIn:* https://www.linkedin.com/in/harinijayakumar 🔗
 
 *Resume:* https://flowcv.com/resume/nsg0lbpvbl 📝
 
