@@ -10,21 +10,19 @@ I’ve completed an internship where I applied my skills in real-world projects,
 Feel free to connect with me if you're interested in collaborating or discussing tech ideas! 🤝
 
 
-🔧 Technologies & Tools:
+🔧 **Technologies & Tools:**
 
-
-Web Development: HTML, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
+*Web Development:* HTML, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;">
 
-Cloud Computing: Microsoft Azure
+*Cloud Computing:* Microsoft Azure
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">
 
+*Tools:* Git, GitHub, Visual Studio Code 🛠️
 
-Tools: Git, GitHub, Visual Studio Code 🛠️
 
-
-📫 How to reach me:
+📫 **How to reach me:**
 
 
 LinkedIn: https://www.linkedin.com/in/harinijayakumar🔗
