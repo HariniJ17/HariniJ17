@@ -12,10 +12,10 @@ Feel free to connect with me if you're interested in collaborating or discussing
 
 🔧 **Technologies & Tools:**
 
-*Web Development:* HTML, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
+*Web Development :* HTML, CSS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="width: 50px; height: 50px;"> <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="width: 50px; height: 50px;">
 
-*Cloud Computing:* Microsoft Azure
+*Cloud Computing :* Microsoft Azure
 <span>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" width="50" height="50">
 
@@ -25,12 +25,12 @@ Feel free to connect with me if you're interested in collaborating or discussing
 📫 **How to reach me:**
 
 
-LinkedIn: https://www.linkedin.com/in/harinijayakumar🔗
+*LinkedIn:* https://www.linkedin.com/in/harinijayakumar🔗
 
-Resume: https://flowcv.com/resume/nsg0lbpvbl 📝
+*Resume:* https://flowcv.com/resume/nsg0lbpvbl 📝
 
 
-🎯 Current Focus:
+🎯 **Current Focus:**
 
 
 I'm currently learning React ⚛️ and exploring cloud platforms like AWS and Azure 🌥️.
