@@ -16,4 +16,4 @@
 </div>
 
 
-<br>📫 How to reach me:<br><br>LinkedIn: https://www.linkedin.com/in/harinijayakumar 🔗<br><br>Resume: https://flowcv.com/resume/nsg0lbpvbl 📝<br><br>🎯 Current Focus:<br><br>I'm currently learning React ⚛️ and exploring cloud platforms like AWS and Azure 🌥️.</p>
+<br>📫 How to reach me:<br><br>LinkedIn: https://www.linkedin.com/in/harinijayakumar 🔗<br><br>Resume: https://flowcv.com/resume/nsg0lbpvbl 📝<br><br>🎯 Current Focus:<br><br>I'm currently exploring cloud platforms like AWS and Azure 🌥️.</p>
